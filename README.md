@@ -250,7 +250,7 @@
 
     * Gradient Boosting ดีที่สุดในแบบเดือน
 
-    * Linear ดีที่สุดในแบบไตรมาส    (แต่อาจเกิดการ Overfitting)
+    * Linear ดีที่สุดในแบบไตรมาส (แต่อาจเกิดการ Overfitting)
 
 ### Fuji apples (Organic)
 
