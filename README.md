@@ -15,7 +15,7 @@
 
 กราฟแสดงค่าของข้อมูลการส่งออกของ Apple ที่แบ่งออกมาแต่ละสายพันธ์และประเภท
 
-![Graph](Picture\Graph.png "Graph")
+![Graph](.\Picture\Graph.png "Graph")
 
 กราฟทุกอันยกเว้น Organic Fuji Conventional Gala and Organic Gala มีการกระจายตัวของข้อมูลที่ดี
 
@@ -49,7 +49,7 @@ Organic Gala ค่าต่ำเป็น 0 แทบทั้งหมด
 
 <br>
 
-![Sequence](Picture\Sequence.png "Sequence")
+![Sequence](.\Picture\Sequence.png "Sequence")
 
 ยกตัวอย่างเช่น Input = 10 Output = 7 
 
