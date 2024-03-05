@@ -29,7 +29,8 @@
 
 ### จัดเตรียมแบบรายวัน (มีการกระจายตัวของข้อมูลที่ดี)
 
-    * Organic Fuji Conventional Gala
+    * Organic Fuji 
+    * Conventional Gala
     * Organic Gala 
 
 ### จัดเตรียมแบบเดือนและไตรมาส (มีค่าสูงเฉพาะบางช่วง)
