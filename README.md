@@ -17,7 +17,7 @@
 
 ![Graph](./Picture/Graph.png "Graph")
 
-    * กราฟทุกอันยกเว้น Organic Fuji Conventional Gala and Organic Gala มีการกระจายตัวของข้อมูลที่ดี
+    * กราฟทุกอันยกเว้น Organic Fuji Conventional Gala และ Organic Gala มีการกระจายตัวของข้อมูลที่ดี
 
     * Organic Fuji และ Conventional Gala มีค่าสูงเฉพาะบางช่วง
 
